@@ -6,8 +6,6 @@ tags:
     - c++
     - dp
 ---
-背包九讲：[01背包问题][1]
-
 
 实例原帖：[Solving 0/1 knapsack problem][2]
 
@@ -152,7 +150,5 @@ int main() {
 ### 延伸：物品能重复拿
 上面的题之所以要从后往前遍历其实就是为了避免重复，所以能重复拿的情况就只要从前往后遍历就可以了。
 
-
-  [1]: http://love-oriented.com/pack/P01.html
   [2]: http://techieme.in/solving-01-knapsack-problem-using-dynamic-programming/
   [3]: ../images/01_package.png
