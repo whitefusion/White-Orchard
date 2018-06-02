@@ -1,5 +1,5 @@
 ---
-title: JS Overview
+title: 0. JS Overview
 date: 2018-06-01 08:46:23
 tags: 
     - core 
@@ -7,11 +7,9 @@ tags:
     - javascript 
     - note
 ---
-## JS Overview
-
 > ES6 new features are not covered.
 
-This is the reading note for "Chapter 1.1: Core Javascript, Javascript: The definitive guide 5th edition". <br>
+> This is the reading note for "Chapter 1.1: Core Javascript, Javascript: The definitive guide 5th edition". <br>
 
 This part provides an overview of Javascript as a programming language and as a client side script for web development, which is also the organization of the whole book. <br>
 
