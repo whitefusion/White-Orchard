@@ -1,5 +1,5 @@
 ---
-title: How do python run programs
+title: "Python: How do python run programs"
 date: 2018-06-02 12:16:04
 tags:
     - core
