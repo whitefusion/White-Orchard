@@ -3,9 +3,8 @@ title: 'Javascript: Types, Values and Variables'
 date: 2018-06-18 23:44:07
 tags:
     - javascript
-    - core
     - note
-    - language
+categories: language core
 ---
 > This is the reading note for " Chapter 3: Overview, Javascript: The definitive guide 5th edition". <br>
 

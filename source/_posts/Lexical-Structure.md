@@ -2,10 +2,9 @@
 title: 'Javascript: Lexical Structure'
 date: 2018-06-16 00:17:42
 tags:
-    - language
-    - core
     - javascript
     - note
+categories: language core
 ---
 > This is the reading note for "Chapter 2: Lexical Structure, Javascript: The definitive guide 5th edition". <br>
 

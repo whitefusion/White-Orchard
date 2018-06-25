@@ -2,9 +2,9 @@
 title: 01 Package problem
 date: 2018-06-02 19:56:01
 tags: 
-    - algorithm 
     - c++
     - dp
+categories: algorithm
 ---
 
 实例原帖：[Solving 0/1 knapsack problem][2]

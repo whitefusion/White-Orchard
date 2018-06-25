@@ -1,13 +1,13 @@
 ---
-title: Number_String_Boolean_Null_Undefined
+title: "Javascript: Number, String, Boolean, Null & Undefined"
 date: 2018-06-24 22:06:54
 tags:
-    - core
-    - language
+    - javascript
     - note
-    - core
-categories: language
+categories: language core
 ---
+> This is the reading note for " Chapter 3: Types, Values and Variables, Javascript: The definitive guide 5th edition". <br>
+
 ## Numbers
 JS does not make a distinction between integer values and floating-point values. **All numbers** in JS are represented as a 64-bit floating-point values. </br>
 
@@ -66,7 +66,8 @@ Remember that strings are immutable in JS. Methods like `replace() ` and `toUppe
 
 #### Pattern Matching
 JS defines a `RegExp()` constructor for creating objects that represent texual patterns. JS adopts Perl's syntax for regular expressions. Like Dates, it's simply a specialized kind of object, with a useful API. 
-```
+
+```javascript
 var text = "testing: 1, 2, 3";   // Sample text
 var pattern = /\d+/g             // Matches all instances of one or more digits
 pattern.test(text)               // => true: a match exists

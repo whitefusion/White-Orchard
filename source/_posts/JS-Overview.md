@@ -1,11 +1,10 @@
 ---
 title: "Javascript: JS Overview"
 date: 2018-06-01 08:46:23
-tags: 
-    - core 
-    - language 
-    - javascript 
+tags:
+    - javascript
     - note
+categories: language core
 ---
 > ES6 new features are not covered.
 

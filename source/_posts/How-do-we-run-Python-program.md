@@ -2,10 +2,9 @@
 title: 'Python: How do we run Python program'
 date: 2018-06-22 22:48:36
 tags:
-    - core
-    - language
     - python
     - note
+categories: language core
 ---
 > This is the reading note for "Chapter 3: how you run programs, Learning python 5th edition". <br>
 

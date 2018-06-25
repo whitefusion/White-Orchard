@@ -2,10 +2,9 @@
 title: "Angular: Typescript"
 date: 2018-06-04 20:10:03
 tags:
-    - language
-    - core
-    - note
     - typescript
+    - note
+categories: language core
 ---
 > This is the reading note for "Typescript, ng-book, the complete book on Angular 5 ". <br>
 
