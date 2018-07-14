@@ -1,5 +1,5 @@
 ---
-title: introducing-python-object-types
+title: 'Python: Introducing python object types'
 date: 2018-07-02 22:52:03
 tags:
     - python
@@ -17,7 +17,8 @@ Python programs can be decomposed into _modules_, _statements_, _expressions_ an
 - Expressions create and process objects.
 
 ## Core data types
-![built-in-types][1]
+![built_in_types][1]
+
 The built-in types are often more efficient, they employ already optimized data structure algorithms that are implemented in C for speed. </br>
 Program units such as functions, modules and classes are objects in Python. They are created with statements and expressions such as `def`, `class`, `import` and `lambda`. </br>
 There are no type declarations in Python, the syntax of the expressions you run determines the types of objects you create and use. Once you craete an object, you bind its operation set for all time - you can perform only string operations on a string and list operations on a list. This means that Python is dynamically typed, a model that keeps track of types for you automatically instead of requiring declaration code, but it is also **strongly typed**, a constraint that means you can perform on an object only operations that are valid for its type. </br>
@@ -390,4 +391,5 @@ replace(...)
 
 Both `dir` and `help` also accept as arguments either a real object, or the name of a _data type_ (like `str`, `list` and `dict`). `help` allows you to ask about a specific method via type name (e.g. help on `str.replace`).
 
-    [1]: ../images/built_in_types.png
+
+  [1]: ../images/built_in_types.png
