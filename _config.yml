@@ -79,5 +79,6 @@ theme: inside
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/whitefusion/whitefusion.github.io.git
+  repo: git@github.com:whitefusion/whitefusion.github.io.git
+  # repo: https://github.com/whitefusion/whitefusion.github.io.git
   branch: master
